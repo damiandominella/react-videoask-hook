@@ -2,7 +2,7 @@
 
 #### Easily manage video ask on react
 
-With this custom hook, you can easily use and customize the behavior of any video ask video!
+With this custom hook, you can easily use and customize the behavior of any [videoask](https://www.videoask.com/) video!
 
 ## Features
 

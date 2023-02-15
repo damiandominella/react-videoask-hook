@@ -28,7 +28,7 @@ import { VideoAskProvider } from 'react-videoask-hook';
 const App = () => {
   const videoAskConfig = {
     kind: 'widget',
-    url: 'https://www.videoask.com/fi0hni2lr',
+    url: 'https://www.videoask.com/<video-id>',
     options: {
       widgetType: 'VideoThumbnailWindowTall',
       position: 'bottom-left',

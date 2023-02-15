@@ -79,6 +79,22 @@ const App = () => {
 };
 ```
 
+### Hook usage
+
+```tsx
+import { useVideoAsk } from 'react-videoask-hook';
+
+const MyComponent = () => {
+  const { showWidget, hideWidget } = useVideoAsk();
+
+  return (
+    <>
+      <button onClick={showWidget}>Show video ask</button>
+    </>
+  );
+};
+```
+
 ## API
 
 Todo |
